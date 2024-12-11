@@ -48,7 +48,7 @@ The dataset includes statistics on violent crime arrests (per 100,000 residents)
    - The R script that contains the complete analysis and clustering code.
    - Includes data preprocessing, hierarchical clustering, k-means clustering, and visualization.
 
-2. **`Intro to DS Project_Rahaf_khalid_Alhuzali_2005675_B4.pdf`**
+2. **`Rahaf_khalid_Alhuzali.pdf`**
    - A detailed report summarizing the project, including methodology, analysis, and results.
 
 3. **`US_violent_crime.csv`**
@@ -79,6 +79,7 @@ The dataset includes statistics on violent crime arrests (per 100,000 residents)
 
 ### Optimal Number of Clusters
 - The **silhouette method** and **gap statistic** suggest an optimal number of clusters as **2**.
+  
 
 ### Cluster Characteristics (K = 2):
 - **Cluster 1**: Cities with higher assault rates but lower murder rates.
