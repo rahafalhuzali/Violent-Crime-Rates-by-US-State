@@ -91,6 +91,8 @@ The dataset includes statistics on violent crime arrests (per 100,000 residents)
 | 1       | -0.9075537    | 1.6683283      |
 | 2       | 0.2242191     | -0.4121752     |
 
+![Plot](plot1.png,plot2.png,plot4.png,plot5.png)
+
 ### Additional Results (K = 4):
 - When K = 4, clustering produces the following sizes: **88, 49, 23, 52 states**.
 - Cluster means for Murder and Assault were calculated and visualized.
