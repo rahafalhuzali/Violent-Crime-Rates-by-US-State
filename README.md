@@ -48,10 +48,7 @@ The dataset includes statistics on violent crime arrests (per 100,000 residents)
    - The R script that contains the complete analysis and clustering code.
    - Includes data preprocessing, hierarchical clustering, k-means clustering, and visualization.
 
-2. **`Rahaf_khalid_Alhuzali.pdf`**
-   - A detailed report summarizing the project, including methodology, analysis, and results.
-
-3. **`US_violent_crime.csv`**
+2. **`US_violent_crime.csv`**
    - The dataset containing violent crime statistics for 200 US cities.
 
 ---
@@ -66,9 +63,13 @@ The dataset includes statistics on violent crime arrests (per 100,000 residents)
   - Clustering cities into groups based on crime rates.
   - Determining the optimal number of clusters using:
     - Scree plots (elbow method).
-      ![Plot](plot1..png)
+      ![Plot](plot1.png)
+
+      
     - Silhouette analysis.
       ![Plot](plot4.png)
+ 
+      
     - Gap statistic.
       ![Plot](plot2.png)
 
