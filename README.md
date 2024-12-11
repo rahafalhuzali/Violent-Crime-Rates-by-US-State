@@ -62,15 +62,16 @@ The dataset includes statistics on violent crime arrests (per 100,000 residents)
 - **K-Means Clustering**:
   - Clustering cities into groups based on crime rates.
   - Determining the optimal number of clusters using:
-    - Scree plots (elbow method).
+    
+    - **Scree plots (elbow method)**.
       ![Plot](plot1.png)
 
       
-    - Silhouette analysis.
+    - **Silhouette analysis**.
       ![Plot](plot4.png)
  
       
-    - Gap statistic.
+    - **Gap statistic**.
       ![Plot](plot2.png)
 
 - **Visualization**:
