@@ -64,14 +64,17 @@ The dataset includes statistics on violent crime arrests (per 100,000 residents)
   - Determining the optimal number of clusters using:
     
     - **Scree plots (elbow method)**.
-      ![Plot](\nplot1.png)
+   
+   ![Plot](plot1.png)
 
       
     - **Silhouette analysis**.
+      
       ![Plot](\nplot4.png)
  
       
     - **Gap statistic**.
+      
       ![Plot](\nplot2.png)
 
 - **Visualization**:
