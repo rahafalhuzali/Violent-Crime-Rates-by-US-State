@@ -70,12 +70,12 @@ The dataset includes statistics on violent crime arrests (per 100,000 residents)
       
     - **Silhouette analysis**.
       
-      ![Plot](\nplot4.png)
+      ![Plot](plot4.png)
  
       
     - **Gap statistic**.
       
-      ![Plot](\nplot2.png)
+      ![Plot](plot2.png)
 
 - **Visualization**:
   - Pair plots, silhouette plots, scree plots, and cluster mappings.
