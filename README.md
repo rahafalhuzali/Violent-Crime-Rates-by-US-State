@@ -66,8 +66,11 @@ The dataset includes statistics on violent crime arrests (per 100,000 residents)
   - Clustering cities into groups based on crime rates.
   - Determining the optimal number of clusters using:
     - Scree plots (elbow method).
+      ![Plot](plot1..png)
     - Silhouette analysis.
+      ![Plot](plot4.png)
     - Gap statistic.
+      ![Plot](plot2.png)
 
 - **Visualization**:
   - Pair plots, silhouette plots, scree plots, and cluster mappings.
@@ -91,7 +94,7 @@ The dataset includes statistics on violent crime arrests (per 100,000 residents)
 | 1       | -0.9075537    | 1.6683283      |
 | 2       | 0.2242191     | -0.4121752     |
 
-![Plot](plot1.png,plot2.png,plot4.png,plot5.png)
+![Plot](plot5.png)
 
 ### Additional Results (K = 4):
 - When K = 4, clustering produces the following sizes: **88, 49, 23, 52 states**.
